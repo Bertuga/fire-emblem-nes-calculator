@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Default",
+    "bonus": 0
+  },
+  {
+    "id": 2,
+    "name": "Plains",
+    "bonus": 5
+  },
+  {
+    "id": 3,
+    "name": "Forest",
+    "bonus": 15
+  },
+  {
+    "id": 4,
+    "name": "Sand",
+    "bonus": 0
+  },
+  {
+    "id": 5,
+    "name": "Pillar",
+    "bonus": 20
+  },
+  {
+    "id": 6,
+    "name": "Fort",
+    "bonus": 20
+  },
+  {
+    "id": 7,
+    "name": "Castle",
+    "bonus": 30
+  },
+  {
+    "id": 8,
+    "name": "Mt",
+    "bonus": 25
+  },
+  {
+    "id": 9,
+    "name": "Cliff",
+    "bonus": 0
+  },
+  {
+    "id": 10,
+    "name": "River",
+    "bonus": 0
+  },
+  {
+    "id": 11,
+    "name": "Sea",
+    "bonus": 30
+  },
+  {
+    "id": 12,
+    "name": "Peak",
+    "bonus": 0
+  },
+  {
+    "id": 13,
+    "name": "Wall",
+    "bonus": 0
+  }
+]

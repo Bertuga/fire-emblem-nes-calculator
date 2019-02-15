@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Lord",
+    "type": "normal"
+  },
+  {
+    "id": 2,
+    "name": "Social Knight",
+    "type": ["horse"]
+  },
+  {
+    "id": 3,
+    "name": "Paladin",
+    "type": ["horse"]
+  },
+  {
+    "id": 4,
+    "name": "Pegasus Knight",
+    "type": ["flying"]
+  },
+  {
+    "id": 5,
+    "name": "Dragon Knight",
+    "type": ["flying","dragon"]
+  },
+  {
+    "id": 6,
+    "name": "Mercenary",
+    "type": "normal"
+  },
+  {
+    "id": 7,
+    "name": "Hero",
+    "type": "normal"
+  },
+  {
+    "id": 8,
+    "name": "Archer",
+    "type": "normal"
+  },
+  {
+    "id": 9,
+    "name": "Sniper",
+    "type": "normal"
+  },
+  {
+    "id": 10,
+    "name": "Hunter",
+    "type": "normal"
+  },
+  {
+    "id": 11,
+    "name": "Horsemen",
+    "type": "normal"
+  },
+  {
+    "id": 12,
+    "name": "Shooter",
+    "type": ["shooter"]
+  },
+  {
+    "id": 13,
+    "name": "Armour Knight",
+    "type": ["armor"]
+  },
+  {
+    "id": 14,
+    "name": "General",
+    "type": ["armor"]
+  },
+  {
+    "id": 15,
+    "name": "Fighter",
+    "type": "normal"
+  },
+  {
+    "id": 16,
+    "name": "Pirate",
+    "type": "normal"
+  },
+  {
+    "id": 17,
+    "name": "Thief",
+    "type": "normal"
+  },
+  {
+    "id": 18,
+    "name": "Commando",
+    "type": "normal"
+  },
+  {
+    "id": 19,
+    "name": "Mamkute",
+    "type": ["dragon"]
+  },
+  {
+    "id": 20,
+    "name": "Mage",
+    "type": "normal"
+  },
+  {
+    "id": 21,
+    "name": "Priest",
+    "type": "normal"
+  },
+  {
+    "id": 22,
+    "name": "Bishop",
+    "type": "normal"
+  }
+]

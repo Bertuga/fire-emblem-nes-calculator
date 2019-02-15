@@ -1,0 +1,946 @@
+{
+	"Lord": {
+		"1060": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1070": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1080": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1250": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1260": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1270": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1280": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1320": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1330": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1360": {
+			"class": "Armour Knight",
+			"weapon": "Lance"
+		},
+		"1370": {
+			"class": "Armour Knight",
+			"weapon": "Lance"
+		},
+		"1380": {
+			"class": "Armour Knight",
+			"weapon": "Lance"
+		},
+		"1400": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		}
+	},
+	"Social Knight": {
+		"1200": {
+			"class": "Mercenary",
+			"weapon": "Steel Sword"
+		},
+		"1210": {
+			"class": "Mercenary",
+			"weapon": "Steel Sword"
+		},
+		"1220": {
+			"class": "Mercenary",
+			"weapon": "Steel Sword"
+		},
+		"1260": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1270": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1280": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1320": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1330": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1400": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1420": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1700": {
+			"class": "Thief",
+			"weapon": "Iron Sword"
+		},
+		"1710": {
+			"class": "Thief",
+			"weapon": "Iron Sword"
+		},
+		"1720": {
+			"class": "Thief",
+			"weapon": "Iron Sword"
+		}
+	},
+	"Paladin": {
+		"1220": {
+			"class": "Mercenary",
+			"weapon": "Steel Sword"
+		},
+		"1230": {
+			"class": "Mercenary",
+			"weapon": "Steel Sword"
+		},
+		"1240": {
+			"class": "Mercenary",
+			"weapon": "Steel Sword"
+		},
+		"1280": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1290": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1300": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1320": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1330": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1400": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1810": {
+			"class": "Paladin",
+			"weapon": "Lance"
+		},
+		"1820": {
+			"class": "Paladin",
+			"weapon": "Lance"
+		},
+		"1830": {
+			"class": "Paladin",
+			"weapon": "Lance"
+		}
+	},
+	"Armour Knight": {
+		"1040": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1050": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1060": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1300": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1310": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1320": {
+			"class": "Social Knight/Mage",
+			"weapon": "Lance/Thunder"
+		},
+		"1330": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1340": {
+			"class": "Armour Knight",
+			"weapon": "Lance"
+		},
+		"1350": {
+			"class": "Armour Knight",
+			"weapon": "Lance"
+		},
+		"1400": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		}
+	},
+	"General": {
+		"1280": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1290": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1300": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1320": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1330": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1380": {
+			"class": "Armour Knight",
+			"weapon": "Lance"
+		},
+		"1390": {
+			"class": "Armour Knight",
+			"weapon": "Lance"
+		},
+		"1400": {
+			"class": "Armour Knight/Mage",
+			"weapon": "Lance/Thunder"
+		},
+		"2100": {
+			"class": "General",
+			"weapon": "Steel Sword"
+		},
+		"2120": {
+			"class": "General",
+			"weapon": "Steel Sword"
+		}
+	},
+	"Pegasus Knight": {
+		"1040": {
+			"class": "Pirate",
+			"weapon": "Axe"
+		},
+		"1050": {
+			"class": "Pirate",
+			"weapon": "Axe"
+		},
+		"1060": {
+			"class": "Pirate",
+			"weapon": "Axe"
+		},
+		"1300": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1310": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1320": {
+			"class": "Social Knight/Mage",
+			"weapon": "Lance/Thunder"
+		},
+		"1330": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1400": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1500": {
+			"class": "Pegasus Knight",
+			"weapon": "Lance"
+		},
+		"1510": {
+			"class": "Pegasus Knight",
+			"weapon": "Lance"
+		}
+	},
+	"Dragon Knight": {
+		"1370": {
+			"class": "Armour Knight",
+			"weapon": "Lance"
+		},
+		"1380": {
+			"class": "Armour Knight",
+			"weapon": "Lance"
+		},
+		"1540": {
+			"class": "Pegasus Knight",
+			"weapon": "Lance"
+		},
+		"1550": {
+			"class": "Pegasus Knight",
+			"weapon": "Lance"
+		},
+		"1560": {
+			"class": "Pegasus Knight",
+			"weapon": "Lance"
+		},
+		"1800": {
+			"class": "Priest",
+			"weapon": "Elfire"
+		},
+		"1810": {
+			"class": "Priest",
+			"weapon": "Elfire"
+		},
+		"1820": {
+			"class": "Dragon Knight",
+			"weapon": "Lance"
+		},
+		"1830": {
+			"class": "Dragon Knight",
+			"weapon": "Lance"
+		},
+		"1840": {
+			"class": "Dragon Knight",
+			"weapon": "Lance"
+		},
+		"1880": {
+			"class": "Priest",
+			"weapon": "Elfire"
+		}
+	},
+	"Mercenary": {
+		"1040": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1050": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1180": {
+			"class": "Mercenary",
+			"weapon": "Steel Sword"
+		},
+		"1190": {
+			"class": "Mercenary",
+			"weapon": "Steel Sword"
+		},
+		"1200": {
+			"class": "Mercenary",
+			"weapon": "Steel Sword"
+		},
+		"1300": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1310": {
+			"class": "Social Knight",
+			"weapon": "Lance"
+		},
+		"1320": {
+			"class": "Social Knight/Mage",
+			"weapon": "Lance/Thunder"
+		},
+		"1330": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1400": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		}
+	},
+	"Hero": {
+		"1360": {
+			"class": "Armour Knight",
+			"weapon": "Lance"
+		},
+		"1370": {
+			"class": "Armour Knight",
+			"weapon": "Lance"
+		},
+		"1380": {
+			"class": "Armour Knight",
+			"weapon": "Lance"
+		},
+		"1800": {
+			"class": "Priest",
+			"weapon": "Elfire"
+		},
+		"1810": {
+			"class": "Priest",
+			"weapon": "Elfire"
+		},
+		"1860": {
+			"class": "Paladin",
+			"weapon": "Lance"
+		},
+		"1870": {
+			"class": "Paladin",
+			"weapon": "Lance"
+		},
+		"1880": {
+			"class": "Paladin/Priest",
+			"weapon": "Lance/Elfire"
+		},
+		"1900": {
+			"class": "Hero",
+			"weapon": "Steel Sword"
+		},
+		"1910": {
+			"class": "Hero",
+			"weapon": "Steel Sword"
+		}
+	},
+	"Fighter": {
+		"1010": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1020": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1030": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1040": {
+			"class": "Pirate",
+			"weapon": "Axe"
+		},
+		"1050": {
+			"class": "Pirate",
+			"weapon": "Axe"
+		},
+		"1060": {
+			"class": "Pirate",
+			"weapon": "Axe"
+		},
+		"1220": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1230": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1300": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1700": {
+			"class": "Thief",
+			"weapon": "Iron Sword"
+		},
+		"1710": {
+			"class": "Thief",
+			"weapon": "Iron Sword"
+		},
+		"1720": {
+			"class": "Thief",
+			"weapon": "Iron Sword"
+		}
+	},
+	"Pirate": {
+		"1010": {
+			"class": "Pirate",
+			"weapon": "Axe"
+		},
+		"1020": {
+			"class": "Pirate",
+			"weapon": "Axe"
+		},
+		"1030": {
+			"class": "Pirate",
+			"weapon": "Axe"
+		},
+		"1040": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1050": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1060": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1220": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1230": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1300": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1700": {
+			"class": "Thief",
+			"weapon": "Iron Sword"
+		},
+		"1710": {
+			"class": "Thief",
+			"weapon": "Iron Sword"
+		},
+		"1720": {
+			"class": "Thief",
+			"weapon": "Iron Sword"
+		}
+	},
+	"Thief": {
+		"1040": {
+			"class": "Pirate",
+			"weapon": "Axe"
+		},
+		"1050": {
+			"class": "Pirate",
+			"weapon": "Axe"
+		},
+		"1060": {
+			"class": "Pirate/Fighter",
+			"weapon": "Axe"
+		},
+		"1070": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1080": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1320": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1400": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1660": {
+			"class": "Thief",
+			"weapon": "Iron Sword"
+		},
+		"1670": {
+			"class": "Thief",
+			"weapon": "Iron Sword"
+		},
+		"1680": {
+			"class": "Thief",
+			"weapon": "Iron Sword"
+		}
+	},
+	"Archer": {
+		"1110": {
+			"class": "Hunter",
+			"weapon": "Steel Bow"
+		},
+		"1120": {
+			"class": "Hunter",
+			"weapon": "Steel Bow"
+		},
+		"1130": {
+			"class": "Hunter",
+			"weapon": "Steel Bow"
+		},
+		"1180": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1190": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1200": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1300": {
+			"class": "Horsemen",
+			"weapon": "Bowgun"
+		},
+		"1310": {
+			"class": "Horsemen",
+			"weapon": "Bowgun"
+		},
+		"1320": {
+			"class": "Horsemen/Mage",
+			"weapon": "Bowgun/Thunder"
+		},
+		"1330": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1400": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		}
+	},
+	"Sniper": {
+		"1100": {
+			"class": "Hunter",
+			"weapon": "Steel Bow"
+		},
+		"1110": {
+			"class": "Hunter",
+			"weapon": "Steel Bow"
+		},
+		"1120": {
+			"class": "Hunter",
+			"weapon": "Steel Bow"
+		},
+		"1160": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1170": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1180": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1700": {
+			"class": "Sniper",
+			"weapon": "Steel Bow"
+		},
+		"1710": {
+			"class": "Sniper",
+			"weapon": "Steel Bow"
+		},
+		"1720": {
+			"class": "Sniper",
+			"weapon": "Steel Bow"
+		},
+		"1760": {
+			"class": "Priest",
+			"weapon": "Elfire"
+		},
+		"1770": {
+			"class": "Priest",
+			"weapon": "Elfire"
+		},
+		"1840": {
+			"class": "Priest",
+			"weapon": "Elfire"
+		}
+	},
+	"Hunter": {
+		"1100": {
+			"class": "Hunter",
+			"weapon": "Steel Bow"
+		},
+		"1110": {
+			"class": "Hunter",
+			"weapon": "Steel Bow"
+		},
+		"1200": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1210": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1220": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1300": {
+			"class": "Horsemen",
+			"weapon": "Bowgun"
+		},
+		"1310": {
+			"class": "Horsemen",
+			"weapon": "Bowgun"
+		},
+		"1320": {
+			"class": "Horsemen/Mage",
+			"weapon": "Bowgun/Thunder"
+		},
+		"1330": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1400": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		}
+	},
+	"Horsemen": {
+		"1140": {
+			"class": "Hunter",
+			"weapon": "Steel Bow"
+		},
+		"1150": {
+			"class": "Hunter",
+			"weapon": "Steel Bow"
+		},
+		"1160": {
+			"class": "Hunter",
+			"weapon": "Steel Bow"
+		},
+		"1200": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1210": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1220": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1250": {
+			"class": "Horsemen",
+			"weapon": "Bowgun"
+		},
+		"1260": {
+			"class": "Horsemen",
+			"weapon": "Bowgun"
+		},
+		"1270": {
+			"class": "Horsemen",
+			"weapon": "Bowgun"
+		},
+		"1320": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1330": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1400": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		}
+	},
+	"Shooter": {
+		"1200": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1210": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1220": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1320": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1330": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1400": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1570": {
+			"class": "Shooter",
+			"weapon": "Stonehedge"
+		},
+		"1580": {
+			"class": "Shooter",
+			"weapon": "Stonehedge"
+		},
+		"1590": {
+			"class": "Shooter",
+			"weapon": "Stonehedge"
+		},
+		"1780": {
+			"class": "Sniper",
+			"weapon": "Steel Bow"
+		},
+		"1790": {
+			"class": "Sniper",
+			"weapon": "Steel Bow"
+		},
+		"1800": {
+			"class": "Sniper",
+			"weapon": "Steel Bow"
+		}
+	},
+	"Mage": {
+		"1060": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1070": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1080": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1160": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1170": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1240": {
+			"class": "Archer",
+			"weapon": "Bowgun"
+		},
+		"1330": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1340": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1350": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1360": {
+			"class": "Armour Knight",
+			"weapon": "Lance"
+		},
+		"1370": {
+			"class": "Armour Knight",
+			"weapon": "Lance"
+		},
+		"1380": {
+			"class": "Armour Knight",
+			"weapon": "Lance"
+		}
+	},
+	"Priest": {
+		"1160": {
+			"class": "Mercenary",
+			"weapon": "Steel Sword"
+		},
+		"1170": {
+			"class": "Mercenary",
+			"weapon": "Steel Sword"
+		},
+		"1240": {
+			"class": "Mercenary",
+			"weapon": "Steel Sword"
+		},
+		"1360": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1370": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1380": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1810": {
+			"class": "Priest",
+			"weapon": "Elfire"
+		},
+		"1820": {
+			"class": "Priest",
+			"weapon": "Elfire"
+		},
+		"1830": {
+			"class": "Priest",
+			"weapon": "Elfire"
+		},
+		"1840": {
+			"class": "Priest",
+			"weapon": "Elfire"
+		},
+		"1860": {
+			"class": "Dragon Knight",
+			"weapon": "Lance"
+		},
+		"1870": {
+			"class": "Dragon Knight",
+			"weapon": "Lance"
+		},
+		"1880": {
+			"class": "Dragon Knight",
+			"weapon": "Lance"
+		}
+	},
+	"Commando": {
+		"1040": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1050": {
+			"class": "Fighter",
+			"weapon": "Axe"
+		},
+		"1060": {
+			"class": "Fighter/Pirate",
+			"weapon": "Axe"
+		},
+		"1070": {
+			"class": "Pirate",
+			"weapon": "Axe"
+		},
+		"1080": {
+			"class": "Pirate",
+			"weapon": "Axe"
+		},
+		"1320": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1330": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1400": {
+			"class": "Mage",
+			"weapon": "Thunder"
+		},
+		"1650": {
+			"class": "Commando",
+			"weapon": "Iron Sword"
+		},
+		"1660": {
+			"class": "Commando",
+			"weapon": "Iron Sword"
+		},
+		"1670": {
+			"class": "Commando",
+			"weapon": "Iron Sword"
+		}
+	}
+}
