@@ -1,4 +1,4 @@
-# Fire Emblem NES Damage/Arena Calculator
+# Fire Emblem Dark Dragon and Sword of Light Damage/Arena Calculator
 
 When I started playing the first Fire Emblem Dark Dragon and Sword of Light (Fire Emblem: Ankoku Ryu to Hikari no Tsurugi), having played newer entries in the series first, I found the lack of damage, hit% and number of attacks information before the attack a little letdown. And the fact that you can't escape from the arena a little too risky.
 
