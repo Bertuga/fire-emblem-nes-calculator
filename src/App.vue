@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>FE_CALC</h1>
+    <h1>Fire Emblem 1 Calculator</h1>
     <BaseTab />
   </div>
 </template>
@@ -19,4 +19,6 @@ export default {
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
 * { font-family: 'Press Start 2P', cursive;}
 body { color: #fff; background: #000}
+h1 { text-align: center; }
+#app { width: 65%; margin: 0 auto; }
 </style>

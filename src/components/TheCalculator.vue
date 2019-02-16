@@ -356,13 +356,16 @@ export default {
 </script>
 
 <style>
-  #calculator { display:flex }
+  #calculator { display:flex; flex-wrap: wrap }
   #calculator > div {
     border: 4px solid #fff;
     border-radius: 5px;
     line-height: 1.6em;
-    margin: 0 10px;
+    margin: 0 auto;
     padding: 10px;
+    max-width: 330px;
+    margin-bottom: 10px;
   }
+  select  { width: 100% }
 
 </style>

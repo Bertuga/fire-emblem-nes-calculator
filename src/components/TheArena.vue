@@ -30,12 +30,12 @@
       @input="maxMin"
     ><br>
     <div v-if="enemyWeapon != ''">
-      Enemy: {{ enemyClass }}<br>
-      Weapon: {{ enemyWeapon }}<br>
+      <p>Enemy: {{ enemyClass }}</p>
+      <p>Weapon: {{ enemyWeapon }}</p>
     </div>
-    <span v-if="error === true">
+    <p v-if="error === true">
       Data not found
-    </span>
+    </p>
   </div>
 </template>
 
@@ -105,9 +105,10 @@ export default {
   border: 4px solid #fff;
   border-radius: 5px;
   line-height: 1.6em;
-  margin: 0 10px;
+  margin: 0 auto;
   padding: 10px;
-  max-width: 500px;
+  max-width: 450px;
+  min-height: 200px;
  }
  input {
   border: 1px solid #000;

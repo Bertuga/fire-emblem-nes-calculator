@@ -1,6 +1,7 @@
 <template>
   <div v-if="activeTab == tab.id">
-    {{ tab.title }} <component :is="tab.content" />
+    <h2>{{ tab.title }}</h2>
+    <component :is="tab.content" />
   </div>
 </template>
 
@@ -18,3 +19,7 @@ export default {
   }
 }
 </script>
+
+<style>
+  h2 { text-align: center; }
+</style>

@@ -3,15 +3,16 @@
     v-if="tabs.length"
     id="tabs"
   >
-    <ul id="tabs__tabs_menu">
+    <ul id="tabs__menu">
       <BaseTabMenuItem
         v-for="tab in tabs"
         :key="tab.id"
         :tab="tab"
+        :active-tab="activeTab"
         @changeTo="changeTo"
       />
     </ul>
-    <div id="tabs__tabs_body">
+    <div id="tabs__body">
       <BaseTabContent
         v-for="tab in tabs"
         :key="tab.id"
@@ -62,3 +63,12 @@ export default {
   }
 }
 </script>
+
+<style>
+  ul { list-style: none; padding: 0; margin: 0; }
+  #tabs__body {
+    border: 4px solid #fff;
+    border-radius: 4px;
+    padding: 10px;
+  }
+</style>
