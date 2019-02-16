@@ -21,4 +21,7 @@ export default {
 body { color: #fff; background: #000}
 h1 { text-align: center; }
 #app { width: 65%; margin: 0 auto; }
+@media(max-width: 490px) {
+  #app { width: unset; margin: 0 auto; }
+}
 </style>
