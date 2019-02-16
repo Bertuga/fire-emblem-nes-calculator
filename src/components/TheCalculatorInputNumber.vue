@@ -50,10 +50,14 @@ export default {
     border-radius: 2px;
     padding: 2px 5px;
     text-align: center;
+    width: 50px
   }
   input::-webkit-outer-spin-button,
   input::-webkit-inner-spin-button {
-      -webkit-appearance: none;
-      margin: 0;
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  input[type=number] {
+    -moz-appearance:textfield;
   }
 </style>
