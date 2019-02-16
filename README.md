@@ -26,6 +26,6 @@ Any feedback is appreciated.
 
 ## Credits
 
-Serenes Forest for the calculations: [Serenes Forest](https://serenesforest.net/dark-dragon-and-sword-of-light/miscellaneous/calculations/)
-Shop/Arena faq by Juigi Kario for the arena data: [FAQ](https://gamefaqs.gamespot.com/nes/562649-fire-emblem-ankoku-ryu-to-hikari-no-tsurugi/faqs/21979)
-Arena calculation from user Julius Nepos on Serenes Forest Forum: [Post](https://serenesforest.net/forums/index.php?/topic/50411-help-with-fe1-arena/&do=findComment&comment=3422631)
+ - Serenes Forest for the calculations: [Serenes Forest](https://serenesforest.net/dark-dragon-and-sword-of-light/miscellaneous/-calculations/)
+ - Shop/Arena faq by Juigi Kario for the arena data: [FAQ](https://gamefaqs.gamespot.com/nes/562649-fire-emblem-ankoku-ryu-to-hikari-no-tsurugi/faqs/21979)
+ - Arena calculation from user Julius Nepos on Serenes Forest Forum: [Post](https://serenesforest.net/forums/index.php?/topic/50411-help-with-fe1-arena/&do=findComment&comment=3422631)
