@@ -12,7 +12,7 @@ Some observations:
 
  - I decided against filtering weapons by the classes that can use it, so it could present some "what-if" scenarios, like having a Lord with an Axe (like Hector) or a Pegasus Knight with a Firearm;
  - Even though the attribute cap is 20 in the game, I limited it to 99;
- - I used the translations from Serene's Forest, so Imhullu is named Maph, for example;
+ - I used the translations from Serenes Forest, so Imhullu is named Maph, for example;
  - Speaking of Imhullu, although it has the immunity factor, unless against an Starlight user, I didn't put it in;
  - You can't win against Gharnef.
  
