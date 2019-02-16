@@ -4,7 +4,7 @@
   "description": "A Fire Emblem damage/arena calculator made in VueJS",
   "main": "src/main.js",
   "scripts": {
-    "test": "jest --coverage || exit 0",
+    "test": "jest --verbose --coverage || exit 0",
     "build": "webpack --config build/webpack.config.dev.js",
     "dev": "webpack-dev-server --config build/webpack.config.dev.js",
     "lint": "eslint --ext .js,.vue src",
@@ -25,7 +25,6 @@
     "babel-eslint": "^10.0.1",
     "babel-jest": "^24.1.0",
     "babel-loader": "^8.0.5",
-    "copy-webpack-plugin": "^4.6.0",
     "css-loader": "^2.1.0",
     "eslint": "^5.13.0",
     "eslint-config-standard": "^12.0.0",
